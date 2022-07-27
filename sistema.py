@@ -15,7 +15,7 @@ pyautogui.press("win")
 pyautogui.write("chrome")
 time.sleep(2)
 pyautogui.press("enter")
-pyperclip.copy("https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3IxdHVLTUw2RE1wek4zSHI3NWF1T3I3VFIxd3xBQ3Jtc0tuMWM0aUlrOExIM25lUlhPcE1HNUZCVnlaN3N1OVA4UkRncUdWZlMwSU1Hd0JEWXlFcFdsNU9ianNLQy0yXy0yUjZnMkNhamV5ckd4ZUltSEdRazV6TjhDUzE0amxWb24zVXpfRGpLRlhoU1VnLWh4UQ&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F149xknr9JvrlEnhNWO49zPcw0PW5icxga%3Fusp%3Dsharing&v=5aOSsvGavOM")
+pyperclip.copy("https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga")
 pyautogui.hotkey("ctrl", "v")
 pyautogui.press("enter")
 # site está carregando 
